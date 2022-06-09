@@ -1,4 +1,7 @@
 # symmetric_crypto
+
+This project was undertaken as part of the NF05 course at UTT (Université de Technologie de Troyes).
+
 This program allows you to encrypt your data using a system almost identical to the AES technology.
 Simply launch the program, provide it with the target file and set up a key (or password). 
 Then, once you want to see your data, target the file and provide the password.
